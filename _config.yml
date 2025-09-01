@@ -13,8 +13,8 @@ permalink: /:categories/:year/:month/:day/:title/
 # Minima theme options
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/<your-username>" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/siddharth101/" }
+    - { platform: github,  user_url: "https://github.com/bis1999" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/bisman-singh1999/" }
 
 # Enable MathJax for LaTeX (optional)
 plugins:
